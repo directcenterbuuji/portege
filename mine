@@ -1,0 +1,15 @@
+public class Main {mine) {
+        int n = 5;
+        int[] arr = {1, 2, 3, 4, 5};
+        int sum = 0;
+        for (int i = 0; i < n; i++) {
+            sum += arr[i];
+        }
+        System.out.println(sum);
+    }catcher bin/bash jar w opener(bin)
+
+
+
+cleaner**bin
+
+    
